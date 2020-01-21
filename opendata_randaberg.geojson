@@ -3,7 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
+      "properties": 
+      {
         "marker-color": "#FF0000",
         "marker-size": "medium",
         "marker-symbol": "heart",
